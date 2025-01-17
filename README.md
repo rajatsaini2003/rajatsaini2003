@@ -13,7 +13,7 @@
   - JavaScript, React
   - Node.js, Express.js, Mongodb
 - 💻I'm always excited about learning new technologies and expanding my skillset.
-- 📫 How to reach me: [My Email](mailto:rajatsaini9460@example.com)
+- 📫 How to reach me: [My Email](mailto:rajatsaini9460@gmail.com)
   
  <div align="center">
   <a href="https://github.com/CatsJuice/ssr-contributions-img">
