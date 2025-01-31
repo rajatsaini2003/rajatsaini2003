@@ -5,8 +5,8 @@
 ## 🚀 About Me
 <img align="right" alt = "Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🌱 I’m currently learning **MERN STACK**
-- 🔭 Next up on my learning journey: **Next.js**
+- 🌱 I’m currently learning **Next.js And TypeScript**
+- 🔭 Next up on my learning journey: **Solidity/Rust(WEB3)**
 - 💻 I have experience with: 
   - C, C++
   - HTML, CSS, Tailwind CSS
@@ -54,7 +54,7 @@
 ## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-saini-2941a324b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_this_is_rajat_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajats_archive)
 
 
 
