@@ -1,11 +1,16 @@
-# Hi there, I'm Rajat Saini! 👋
+<h1 align="center">  
+ Hi there, I'm Rajat Saini! 👋
+</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4DF7F5&width=435&lines=Rajat+Saini;Full+Stack+Developer;Web3+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<h2>I'm a passionate learner and developer currently diving deep into the MERN stack.</h2>
+<h2 align="center">I'm a passionate learner and developer currently diving deep into the MERN stack.</h2>
 
 ## 🚀 About Me
 <img align="right" alt = "Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🌱 I’m currently learning **Next.js And TypeScript**
+- 🌱 I’m currently learning **DevOps**
 - 🔭 Next up on my learning journey: **Solidity/Rust(WEB3)**
 - 💻 I have experience with: 
   - C, C++
@@ -38,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r lang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -84,8 +91,15 @@
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-saini-2941a324b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajats_archive)
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsainiworkmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-saini-2941a324b/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rajatsSaini)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rajatsaini20/)
+[![Resume](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1g6nRPaqQGhidN_7TQ38CWY1x2ml_bhKc/view?usp=sharing)
+
+</div>
 
 
 
