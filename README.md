@@ -85,6 +85,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsaini2003&layout=compact&theme=radical" alt="rajatsaini2003" /></p>
 
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatsaini2003&theme=github_dark)
 ## 🌟 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsaini2003&layout=compact&theme=radical)
