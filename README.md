@@ -10,13 +10,14 @@
 ## 🚀 About Me
 <img align="right" alt = "Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-- 🌱 I’m currently learning **DevOps**
-- 🔭 Next up on my learning journey: **Solidity/Rust(WEB3)**
+- 🌱 I’m currently learning **Cloud and Dotnet**
+- 🔭 Next up on my learning journey: **Python**
 - 💻 I have experience with: 
   - C, C++
+  - Node.js, Express.js, Mongodb
+  - Dotnet, C#, SQL Server
   - HTML, CSS, Tailwind CSS
   - JavaScript, React
-  - Node.js, Express.js, Mongodb
 - 💻I'm always excited about learning new technologies and expanding my skillset.
 - 📫 How to reach me: [My Email](mailto:rajatsaini9460@gmail.com)
   
@@ -40,8 +41,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=cs" height="40" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=dotnet" height="40" />
+<img width="12" />
+
+
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r lang logo"  />
@@ -76,7 +84,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![APIM](https://img.shields.io/badge/API_Management-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white)
 </p>
 
 
